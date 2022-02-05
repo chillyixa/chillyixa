@@ -14,7 +14,7 @@ Software development is not a hobby, it's a lifestyle...
  var education = "High School Mechanical engineering"
 ```
 
-## **Linguagens e Ferramentas:**  
+## **Languages and Tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -28,7 +28,7 @@ Software development is not a hobby, it's a lifestyle...
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 
-## **GitHub Estatísticas**
+## **GitHub statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chillyixa&theme=dracula&hide_langs_below=1" />
@@ -45,7 +45,7 @@ Software development is not a hobby, it's a lifestyle...
 
 <br>
 
-#### Rede Sociais!
+#### Social Media!
 
 
 📺 [youtube][youtube] **|** 

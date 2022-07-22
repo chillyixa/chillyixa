@@ -7,7 +7,7 @@ Software development is not a hobby, it's a lifestyle...
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```js
- const name = "Umurcan "iXargon" Erman"
+ const name = "Umurca  Erman"
  
  var primarySkillset = "BackEnd Development"
  var languages = ["JavaScript", "NodeJS", "React", "TypeScript", "Express"]  
@@ -40,8 +40,8 @@ Software development is not a hobby, it's a lifestyle...
 
 
 [youtube]: https://www.youtube.com/channel/UCC4TP5ijWv_MUF7qgvL2HOA
-[instagram]: https://www.instagram.com/umurerman36/
-[discord]: https://discord.com
+[instagram]: https://www.instagram.com/umurerman34/
+[discord]: https://discord.com/users/244847249866096640
 
 <br>
 
@@ -50,5 +50,5 @@ Software development is not a hobby, it's a lifestyle...
 
 📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|**
-💬 [discord: iXargon#0861][discord] 
+💬 [discord][discord] 
 
